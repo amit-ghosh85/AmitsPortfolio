@@ -2,7 +2,7 @@ import streamlit as st
 import time as t
 
 with st.spinner("Amit is waiting for you !!!!"):
-    t.sleep(1)
+    t.sleep(5)
 st.balloons()
 st.title("AMIT KUMAR GHOSH")
 st.subheader("ASSISTANT MANAGER - DATA ANALYST, MICROSOFT OFFICE SPECIALIST CERTIFIED")
