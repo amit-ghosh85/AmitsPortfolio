@@ -1,9 +1,9 @@
 import streamlit as st
 import time as t
 
-# with st.spinner("Amit is waiting for you !!!!"):
-#     t.sleep(1)
-# st.balloons()
+with st.spinner("Amit is waiting for you !!!!"):
+    t.sleep(1)
+st.balloons()
 st.title("AMIT GHOSHAMIT KUMAR GHOSH")
 st.subheader("ASSISTANT MANAGER - DATA ANALYST, MICROSOFT OFFICE SPECIALIST CERTIFIED")
 st.progress(100)
